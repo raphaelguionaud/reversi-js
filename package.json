@@ -1,0 +1,19 @@
+{
+  "name": "reversi-js",
+  "version": "1.0.8",
+  "description": "A reversi/othello engine for node.js",
+  "main": "src/index.js",
+  "types": "./@types/index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Raphael Guionaud",
+    "email": "raphael.guionaud@outlook.com",
+    "url": "https://github.com/raphaelguionaud/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
